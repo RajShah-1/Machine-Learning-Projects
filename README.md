@@ -7,3 +7,5 @@ Repository containing brief details of all the machine learning and deep learnin
 
 # Projects
 (Will be added soon)
+
+[Balance-Bot](https://github.com/RajShah-1/Balance-Bot)  (Project based on control theory and Arduino) 
